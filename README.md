@@ -34,5 +34,5 @@
 2. Método POST a la ruta /cart/:id para agregar un producto al carrito
 3. Método GET a la ruta /cart Lista los productos añadidos al carrito
 
-📌 Autor: [AGranada]
-📅 Última actualización: 2025-03-04
+Autor: [AGranada]
+Última actualización: 2025-03-04
